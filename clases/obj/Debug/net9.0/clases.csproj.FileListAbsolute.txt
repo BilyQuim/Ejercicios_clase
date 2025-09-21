@@ -1,0 +1,15 @@
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.AssemblyInfoInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.AssemblyInfo.cs
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.sourcelink.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\bin\Debug\net9.0\clases.exe
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\bin\Debug\net9.0\clases.deps.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\bin\Debug\net9.0\clases.runtimeconfig.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\bin\Debug\net9.0\clases.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\bin\Debug\net9.0\clases.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\refint\clases.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\clases.genruntimeconfig.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\clases\obj\Debug\net9.0\ref\clases.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\Proyecto_2\\Proyecto_2.csproj": {}
+    "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\clases\\clases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\Proyecto_2\\Proyecto_2.csproj": {
+    "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\clases\\clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\Proyecto_2\\Proyecto_2.csproj",
-        "projectName": "Proyecto_2",
-        "projectPath": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\Proyecto_2\\Proyecto_2.csproj",
+        "projectUniqueName": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\clases\\clases.csproj",
+        "projectName": "clases",
+        "projectPath": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\clases\\clases.csproj",
         "packagesPath": "C:\\Users\\binbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\Proyecto_2\\obj\\",
+        "outputPath": "C:\\Users\\binbi\\OneDrive\\Escritorio\\Proyectos\\clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
