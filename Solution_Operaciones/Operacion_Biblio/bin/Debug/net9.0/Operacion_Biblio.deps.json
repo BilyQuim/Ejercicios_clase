@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Operacion_Biblio/1.0.0": {
+        "runtime": {
+          "Operacion_Biblio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operacion_Biblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

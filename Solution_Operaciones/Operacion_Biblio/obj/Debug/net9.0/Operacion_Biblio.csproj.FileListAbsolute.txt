@@ -1,0 +1,12 @@
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\bin\Debug\net9.0\Operacion_Biblio.deps.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\bin\Debug\net9.0\Operacion_Biblio.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\bin\Debug\net9.0\Operacion_Biblio.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.AssemblyInfoInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.AssemblyInfo.cs
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.csproj.CoreCompileInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.sourcelink.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\refint\Operacion_Biblio.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\Operacion_Biblio.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\Solution_Operaciones\Operacion_Biblio\obj\Debug\net9.0\ref\Operacion_Biblio.dll
