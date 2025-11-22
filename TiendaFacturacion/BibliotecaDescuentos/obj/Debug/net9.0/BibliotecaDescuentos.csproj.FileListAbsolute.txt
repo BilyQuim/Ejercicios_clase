@@ -1,0 +1,12 @@
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.deps.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.AssemblyInfoInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.AssemblyInfo.cs
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.sourcelink.json
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\refint\BibliotecaDescuentos.dll
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.pdb
+C:\Users\binbi\OneDrive\Escritorio\Proyectos\TiendaFacturacion\BibliotecaDescuentos\obj\Debug\net9.0\ref\BibliotecaDescuentos.dll

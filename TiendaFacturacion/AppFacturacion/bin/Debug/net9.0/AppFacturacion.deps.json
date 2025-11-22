@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AppFacturacion/1.0.0": {
+        "dependencies": {
+          "BibliotecaDescuentos": "1.0.0"
+        },
+        "runtime": {
+          "AppFacturacion.dll": {}
+        }
+      },
+      "BibliotecaDescuentos/1.0.0": {
+        "runtime": {
+          "BibliotecaDescuentos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppFacturacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDescuentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
